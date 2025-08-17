@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: Death Recap
+## Author: Fivebuttons (extracted from KPack by Kader)
+## Version: 1.0
+## Notes: Adds a button to the death dialog that shows you the last 5 events prior to your death, with extra details.
+## SavedVariables: StandaloneDeathRecapDB
+
+Core.lua
