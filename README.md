@@ -1,7 +1,7 @@
 # DeathRecap (WoW 3.3.5)
 
 **DeathRecap** is a lightweight addon for World of Warcraft 3.3.5 that enhances the standard death dialog.  
-It adds a **"Recap" button** that shows you the last **5 combat events leading up to your death**, with extra details to help you understand what happened.
+It adds a **"Death Recap" button** that shows you the last **5 combat events leading up to your death**, with extra details to help you understand what happened.
 
 <img width="510" height="616" alt="image" src="https://github.com/user-attachments/assets/28abbfc7-712c-4484-93b7-a98d192b457a" />
 ---
